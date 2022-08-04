@@ -27,43 +27,4 @@ h1 {
   margin: 20px auto;
 }
 
-/* .inputContainer {
-  display: flex;
-}
 
-input {
-  outline: none;
-  font-size: 18px;
-}
-
-.addTask {
-  flex: 90%;
-  padding: 10px;
-  border-radius: 16px;
-  border: 1px solid;
-  margin-right: 10px;
-  border-color: #eb1d36;
-}
-
-.todoList {
-  padding: 16px;
-}
-
-.todoList h2 {
-  font-size: 1.5rem;
-  font-weight: 300;
-  margin-bottom: 16px;
-}
-
-.content input {
-  border-radius: 10px;
-  padding: 5px;
-  width: 100%;
-  outline: none;
-  border: 1px solid;
-}
-
-.task {
-  display: flex;
-  justify-content: space-between;
-} */
