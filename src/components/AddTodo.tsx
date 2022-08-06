@@ -23,6 +23,7 @@ export const AddTodo = ({
       variant="contained"
       color="error"
       size="small"
+      type="submit"
     >
       Add task
     </Button>
